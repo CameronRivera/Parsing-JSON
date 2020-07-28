@@ -46,3 +46,13 @@ do {
 } catch {
     print("Decoding Error: \(error.localizedDescription)")
 }
+
+/*
+ ▿ 2 elements
+ ▿ __lldb_expr_1.Contact
+   - firstName: "John"
+   - lastName: "Appleseed"
+ ▿ __lldb_expr_1.Contact
+   - firstName: "Alex"
+   - lastName: "Paul"
+ */
