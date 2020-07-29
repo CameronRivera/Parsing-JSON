@@ -4,5 +4,6 @@
         <page name='Parsing-Dictionary'/>
         <page name='Parsing-Array'/>
         <page name='Parsing-MultipleKeys'/>
+        <page name='Parsing-HeterogeneousObjects'/>
     </pages>
 </playground>
